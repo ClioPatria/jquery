@@ -24,7 +24,9 @@
 	    ] ;
 	cpack:description
 
-"""Package description goes here.  You can use PlDoc markup.
+"""The jQuery package provides the jQuery files as well as library(jquery),
+   which deals with dependency handling between jQuery resources and will
+   also contain utilities to simplify jQuery interaction.
 """ .
 
 
