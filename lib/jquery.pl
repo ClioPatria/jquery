@@ -33,7 +33,7 @@
 	  ]).
 :- use_module(library(http/http_path), []).
 :- use_module(library(http/html_head)).
-:- use_module(library(http/dcg_basics)).
+:- use_module(library(dcg/basics)).
 :- use_module(library(pure_input)).
 
 /** <module> JQuery declarations and utilities
