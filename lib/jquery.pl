@@ -27,7 +27,7 @@
     the GNU General Public License.
 */
 
-:- module(jquery,
+:- module(cp_jquery,
 	  [ jquery_depends/2,		% +File, -DependsOn
 	    use_jquery//1		% +Component
 	  ]).
